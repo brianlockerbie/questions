@@ -1,4 +1,4 @@
-**<h1 align="center">:question:	Questions</h1>
+<h1 align="center">:question:	Questions</h1>
 <p align="center">7/15 JavaScript Projects</p>
 
 ## 🕹 Live Demo: https://nifty-saha-e93807.netlify.app
