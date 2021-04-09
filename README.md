@@ -3,7 +3,7 @@
 
 ## 🕹 Live Demo: https://nifty-saha-e93807.netlify.app
 
-Create a frequently asked questions page which educates users about a business and drives traffic to the website through organic search results.
+Created a frequently asked questions page which educates users about a business and drives traffic to the website through organic search results.
 
 Key concepts covered:
 
